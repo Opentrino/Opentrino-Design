@@ -9,7 +9,8 @@ It will be made up of 3 main components:
 
 **Citrino**
 -------
-**General specifications** 
+**General specifications**   
+
 ISA/Big-A related:  
 >1- 32 bit CISC Architecture  
 2- x86 inspired  

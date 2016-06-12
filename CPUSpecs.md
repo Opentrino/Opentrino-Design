@@ -1,6 +1,6 @@
 # **CPU Goals**: to design a very fast and complete Microprocessor with modern features
 ___
-# CPU Specifications
+# Microprocessor Features:
 
 The Microprocessor will support multiple technologies that are present in large modern Microprocessors.
 
@@ -22,3 +22,6 @@ As it was already described in the main document (README.md), the high level goa
 7- To extend throughput even further, **Multithreading** will also be implemented  
 8- There is also plans to make the Microprocessor **Multi Cored**, however, this choice is not yet confirmed  
 9- A **Floating Poing Unit** may also be implemented
+
+___
+# Microprocessor Specifications:  

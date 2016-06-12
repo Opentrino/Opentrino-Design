@@ -7,7 +7,7 @@ The Microprocessor will support multiple technologies that are present in large 
 As it was already described in the main document (README.md), the high level goals for this project (Centrino Microprocessor) are:
 
 **ISA:**
->1- **32 bit CISC** Architecture  
+1- **32 bit CISC** Architecture  
 2- Influenced heavily by the **x86** instruction set and architecture in its entirety  
 3- Support for all x86 instructions (**54**) and more  
 4- **Memory Management Unit** support, and thus Paging

@@ -24,4 +24,59 @@ As it was already described in the main document (README.md), the high level goa
 9- A **Floating Poing Unit** may also be implemented
 
 ___
-# Microprocessor Specifications:  
+# **Microprocessor Specifications:**  
+
+# Architecture of choice  
+
+# Instructions supported  
+
+# Core Components / **Frontend / Execution**:
+    Registers:
+    ALU:
+    Control Unit:
+    IO Controller:
+
+# Memory Addressing Modes
+
+# Pipelines
+
+# Interrupts
+
+# External Interfacing / IO
+    Bus Logic
+
+# Memory Organization / Hierarchy
+    DRAM / SDRAM / SRAM
+    Virtual Memory (MMU)
+    Direct Memory Access (DMA)
+    Caches
+    LUTs/ROM (Microcode)
+
+# Expected throughput / Performance  
+
+# Optimizations and Efficiency
+
+# Compatibility
+
+# Extensibility
+
+___
+# Core Components / **Frontend / Execution** (detailed):  
+
+# - Registers  
+
+# - ALU  
+
+# - Control Unit  
+    FSM Specification
+    
+# - IO Controller  
+
+___
+# **Engineering Standards:**  
+
+___
+# **Design References:**
+
+
+

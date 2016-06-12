@@ -1,4 +1,4 @@
-# **CPU Goals**: to implement a very fast Microprocessor with modern features
+# **CPU Goals**: to design a very fast and complete Microprocessor with modern features
 ___
 # CPU Specifications
 

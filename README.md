@@ -19,14 +19,14 @@ ISA/Big-A related:
 
 Microarchitecture related:
 >1- Pipelined  
-2- Cached
-3- Microcode design oriented
-4- Superscalar
-5- Branch Prediction
-7- VLIW
-8- Multithreaded
-9- Multi Core
-10- Floating Point Unit (possibility)
+2- Cached  
+3- Microcode design oriented  
+4- Superscalar  
+5- Branch Prediction  
+7- VLIW  
+8- Multithreaded  
+9- Multi Core  
+10- Floating Point Unit (possibility)  
 
 **Gentrino**
 -------

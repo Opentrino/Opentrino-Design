@@ -9,7 +9,7 @@ It will be made up of 3 main components:
 
 **Citrino**
 -------
-**General specifications**   
+**General features**   
 
 ISA/Big-A related:  
 >1- 32 bit CISC Architecture  
@@ -27,6 +27,8 @@ Microarchitecture related:
 8- Multithreaded  
 9- Multi Core  
 10- Floating Point Unit (possibility)  
+
+[Detailed Specs here](https://github.com/Opentrino/Opentrino-Design/blob/master/CPUSpecs.md)
 
 **Gentrino**
 -------

@@ -1,6 +1,6 @@
 # ISA - Instruction Set Architecture
 
-# **ISA Table:**
+# **Instruction Set Table:**
 |No.| Type: / Format: |  Data Transfer | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)
 |---|-----------------|----------------|------------------|---------|---------------|-----|------------------|--------------|------|---------------|
 |1||MOV|ADD|JMP|BT|IN|MOVS|STF|NOP|LGDT

@@ -21,7 +21,7 @@ ISA/Big-A related:
 [ISA Specifications here](https://github.com/Opentrino/Opentrino-Design/blob/master/ISA.md)
 
 Microarchitecture related:
->1- Pipelined  [(Specifications)](https://github.com/Opentrino/Opentrino-Design/blob/master/Pipeline.md)
+>1- Pipelined  [(Specifications)](https://github.com/Opentrino/Opentrino-Design/blob/master/Pipeline.md)  
 2- Cached  
 3- Microcode design oriented  
 4- Superscalar  

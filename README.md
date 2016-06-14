@@ -14,7 +14,7 @@ It will be made up of 3 main components:
 ISA/Big-A related:  
 >1- 32 bit CISC Architecture  
 2- x86 inspired  
-3- 54 instructions supported  
+3- +54 instructions supported  
 4- MMU support  
 
 [ISA Specifications here](https://github.com/Opentrino/Opentrino-Design/blob/master/ISA.md)

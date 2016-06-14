@@ -76,7 +76,18 @@ ___
 # **Engineering Standards:**  
 
 ___
-# **Design References:**
+# **Research Resources:**
 
+**Books/Textbooks:**  
+1- [Computer Organization and Design: The Hardware/Software Interface - by David A. Patterson,  John L. Hennessy ](https://www.amazon.co.uk/Computer-Organization-Design-Interface-Architecture/dp/0124077269/ref=sr_1_2?ie=UTF8&qid=1465867988&sr=8-2&keywords=computer+organization+and+design)  
 
+2- [Computer Architecture - A Quantitative Approach - by John Hennessy](https://www.amazon.co.uk/Computer-Architecture-Morgan-Kaufmann-Design/dp/012383872X/ref=sr_1_1?ie=UTF8&qid=1465868130&sr=8-1&keywords=computer+architecture+a+quantitative+approach)  
 
+3- [Modern Processor Design: Fundamentals of Superscalar Processors - by John P. Shen ](https://www.amazon.co.uk/Modern-Processor-Design-Fundamentals-Superscalar/dp/0070570647/ref=sr_1_1?ie=UTF8&qid=1465868200&sr=8-1&keywords=modern+processor+design+fundamentals+of+superscalar+processors)  
+
+4- [Microprocessor Design: A Practical Guide from Design Planning to Manufacturing - by Grant Mcfarland](https://www.amazon.co.uk/Microprocessor-Design-Manufacturing-Professional-Engineering/dp/0071459510/ref=sr_1_1?ie=UTF8&qid=1465868255&sr=8-1&keywords=Microprocessor+design+a+practical+guide)  
+
+5- [Complete Digital Design: A Comprehensive Guide to Digital Electronics and Computer System Architecture - by Mark Balch](https://www.amazon.co.uk/Complete-Digital-Design-Comprehensive-Architecture-ebook/dp/B000THOD3Y/ref=sr_1_3?ie=UTF8&qid=1465868307&sr=8-3&keywords=Complete+digital+design)  
+
+**Manuals:**  
+1- [Intel® 64 and IA-32 Architectures Software Developer’s Manual - by Intel](http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf)

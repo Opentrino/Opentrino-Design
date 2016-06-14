@@ -2,7 +2,7 @@
 
 # **ISA Table:**
 | Type: / Format: |  Data Transfer | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)
-|-|-|-|-|-|-|-|-|-|-|
+|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|-:|
 ||MOV|ADD|JMP|BT|IN|MOVS|STF|NOP|LGDT
 ||SWAP|SUB|JCO|BTS|OUT|CMPS|CLF|LEA|LIDT
 ||PUSH/A/F|MUL|CALL|BTR|INS|LODS|LAHF

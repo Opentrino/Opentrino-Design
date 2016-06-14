@@ -1,2 +1,2 @@
-# Microprocessor Registers
+# x86 Registers
 

@@ -4,7 +4,7 @@ Here can be found the specifications for the 3 milestone projects that make up t
 
 It will be made up of 3 main components:
 - The Microprocessor - [**Citrino** project](https://github.com/Opentrino/Citrino)
-- The Graphical Processing Unit - [**Gentrino** project](https://github.com/Opentrino/Gentrino)
+- The Graphical Processing Unit - [**Gentrino** project](https://github.com/Opentrino/Gentrino)  
 - The Motherboard - [**Mintrino** project](https://github.com/Opentrino/Mintrino)
 
 **Citrino**
@@ -14,7 +14,7 @@ It will be made up of 3 main components:
 ISA/Big-A related:  
 >1- 32 bit CISC Architecture  
 2- x86 inspired  
-3- x86 Registers [(Specifications)](https://github.com/Opentrino/Opentrino-Design/blob/master/RegistersSpec.md)
+3- x86 Registers [(Specifications)](https://github.com/Opentrino/Opentrino-Design/blob/master/RegistersSpec.md)  
 3- +54 instructions supported  
 4- MMU support  
 

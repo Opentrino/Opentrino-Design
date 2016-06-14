@@ -30,7 +30,7 @@ Microarchitecture related:
 9- Multi Core  
 10- Floating Point Unit (possibility)  
 
-[Detailed Specs here](https://github.com/Opentrino/Opentrino-Design/blob/master/CPUSpecs.md)
+[**> Complete Specifications for the Microprocessor can be found here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CPUSpecs.md)
 
 **Gentrino**
 -------

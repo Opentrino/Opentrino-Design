@@ -8,12 +8,12 @@ As it was already described in the main document (README.md), the high level goa
 
 **ISA:**  
 1- **32 bit CISC** Architecture  
-2- Influenced heavily by the **x86** instruction set and architecture in its entirety  
-3- Support for all x86 instructions (**54**) and more  
+2- Influenced heavily by the **x86** instruction set and architecture in its entirety, including the registers  
+3- Support for most x86 instructions  
 4- **Memory Management Unit** support, and thus Paging
 
 **Microarchitecture:**  
-1- Multiple **Pipelines** (the amount will is yet to be determined)  
+1- Multiple **Pipelines** (the amount is yet to be determined)  
 2- A **Cache** mechanism (will require heavy research)  
 3- Most of its functionality will contain **Microcode**  
 4- It must be **Superscalar**. One of the goals is to have a **very fast throughput**  

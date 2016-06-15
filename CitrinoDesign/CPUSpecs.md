@@ -71,10 +71,11 @@ ___
 # 2.1. Pipelines
 
 # 2.2. External Interfacing / IO
-    Bus Logic
+     Bus Logic
+     Dataflow Algorithms (Northbridge/Southbridge-like)
 
 # 2.3. Control Unit
-    FSM Logic
+     FSM Logic
     
 # 2.4. Memory Controller
     Memory Access mechanism (scheduling policy)

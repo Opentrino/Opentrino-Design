@@ -97,6 +97,8 @@ ___
 # 2.9. Flexibility of design
      Voltage scaling
      Clock scaling / multiplier
+     
+# 2.10. Error correction
 
 # **> Engineering Factors <**
 

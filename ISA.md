@@ -22,3 +22,8 @@
 |17||ROL
 
 (The table will be under constant alteration)
+
+# **Registers**
+[Consult this page for the registers' specification](https://github.com/Opentrino/Opentrino-Design/blob/master/Registers.md)
+
+# **Addressing Modes**

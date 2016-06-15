@@ -17,7 +17,7 @@ Format:
 Example:  
 
 # **SWAP**
-**Meaning**: Swaps 2 register's values  
+**Meaning**: Swaps two register's values, which are described by the two operands  
 Format:  
 Example:  
 

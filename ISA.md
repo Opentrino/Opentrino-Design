@@ -27,6 +27,6 @@
 [Consult this page for the registers' specification](https://github.com/Opentrino/Opentrino-Design/blob/master/Registers.md)
 
 # **Addressing Modes**
-A following image summarises the addressing modes that are being planned for implementation:
+The following image summarises the addressing modes that are being planned for implementation:
 ![Adressing Modes](http://image.prntscr.com/image/704a692a943345268c056e81834b3d68.png)  
 ([Reference](https://cs.nyu.edu/courses/fall10/V22.0201-002/addressing_modes.pdf))

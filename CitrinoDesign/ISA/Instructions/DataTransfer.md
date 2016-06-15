@@ -12,7 +12,7 @@ Instruction List:
 _____  
 
 # **MOV**
-Meaning:  Move data from Source to Destination operands  
+**Meaning**:  Move data from Source to Destination operands  
 Format:  
 Example:  
 

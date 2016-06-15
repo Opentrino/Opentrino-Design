@@ -18,7 +18,7 @@ ISA/Big-A related:
 3- +54 instructions supported  
 4- MMU support  
 
-[ISA Specifications here](https://github.com/Opentrino/Opentrino-Design/blob/master/ISA.md)
+[**> ISA Specifications here**](https://github.com/Opentrino/Opentrino-Design/blob/master/ISA.md)
 
 Microarchitecture related:
 >1- Pipelined  ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/Pipeline.md))  

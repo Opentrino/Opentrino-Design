@@ -1,4 +1,5 @@
 # ISA - Instruction Set Architecture
+  Architecture type: x86 CISC (32 bits only)
 
 # **Instruction Set Table:**
 |No.| Data Transfer | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)

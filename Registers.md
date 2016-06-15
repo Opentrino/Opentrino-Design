@@ -24,4 +24,4 @@ They are:
 
 Special registers:
 >* EIP: Instruction Pointer  
-*EFLAGS: Flags register
+* EFLAGS: Flags register

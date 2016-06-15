@@ -24,9 +24,11 @@ As it was already described in the main document (README.md), the high level goa
 9- A **Floating Poing Unit** may also be implemented
 
 ___
+___
+___
 # **Microprocessor Specifications:**  
 
-# >>>>> ISA: <<<<<
+# **> ISA <**
 # Architecture of choice  
 
 # Instructions (types and formats)  
@@ -63,7 +65,8 @@ ___
 # Power Manager
     ACPI
 
-# >>>>> Microarchitecture: <<<<<
+___
+# **> Microarchitecture <**
 
 # Pipelines
 
@@ -73,9 +76,10 @@ ___
 # Control Unit
     FSM Logic
 
-# >>>>> Engineering Factors: <<<<<
+# **> Engineering Factors <**
 
-# Expected throughput / Performance  
+# Expected throughput / Performance
+  
 
 # Optimizations and Efficiency
 
@@ -84,10 +88,10 @@ ___
 # Extensibility
 
 ___
-# **Engineering Standards:**  
+# **> Engineering Standards <**  
 
 ___
-# **Research Resources:**
+# **> Research Resources <**
 
 **Books/Textbooks:**  
 1- [Computer Organization and Design: The Hardware/Software Interface - by David A. Patterson,  John L. Hennessy ](https://www.amazon.co.uk/Computer-Organization-Design-Interface-Architecture/dp/0124077269/ref=sr_1_2?ie=UTF8&qid=1465867988&sr=8-2&keywords=computer+organization+and+design)  

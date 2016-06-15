@@ -30,11 +30,12 @@ ___
 
 # Instructions supported  
 
-# Core Components / **Frontend / Execution**:
-    Registers: 16 registers in total. 10 of which are 32 bits, the other 6 are 16 bits (segment registers)
-    ALU:
-    Control Unit:
-    IO Controller:
+# ISA's Core Components:
+    * Registers: 16 registers in total. 10 of which are 32 bits, the other 6 are 16 bits (segment registers)
+    * ALU:
+    * Control Unit:
+        * FSM Specification
+    * IO Controller:
 
 # Memory Addressing Modes
 
@@ -59,19 +60,6 @@ ___
 # Compatibility
 
 # Extensibility
-
-___
-# Core Components / **Frontend / Execution** (detailed):  
-
-# - Registers  
-[Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/Registers.md) 
-
-# - ALU  
-
-# - Control Unit  
-    FSM Specification
-    
-# - IO Controller  
 
 ___
 # **Engineering Standards:**  

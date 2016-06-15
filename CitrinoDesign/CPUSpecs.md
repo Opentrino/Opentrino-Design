@@ -26,25 +26,28 @@ As it was already described in the main document (README.md), the high level goa
 ___
 # **Microprocessor Specifications:**  
 
+# >>>>> ISA: <<<<<
 # Architecture of choice  
 
-# Instructions supported  
+# Instructions (types and formats)  
 
-# ISA's Core Components:
-    * Registers: 16 registers in total. 10 of which are 32 bits, the other 6 are 16 bits (segment registers)
-    * ALU:
-    * Control Unit:
-        * FSM Specification
-    * IO Controller:
+# Data Types
 
 # Memory Addressing Modes
 
-# Pipelines
+# Registers
 
-# Interrupts
+# Flags
 
-# External Interfacing / IO
-    Bus Logic
+# Interrupts and Exception Handling
+
+# Access Control and Prioritization/Privilege
+
+# Global Modes of Execution
+
+# IO 
+    Memory Mapped IO
+    External IOCTL
 
 # Memory Organization / Hierarchy
     DRAM / SDRAM / SRAM
@@ -52,6 +55,25 @@ ___
     Direct Memory Access (DMA)
     Caches
     LUTs/ROM (Microcode)
+    
+# Task and Thread controller/manager
+
+# Multithread and Multicore support
+
+# Power Manager
+    ACPI
+
+# >>>>> Microarchitecture: <<<<<
+
+# Pipelines
+
+# External Interfacing / IO
+    Bus Logic
+
+# Control Unit
+    FSM Logic
+
+# >>>>> Engineering Factors: <<<<<
 
 # Expected throughput / Performance  
 

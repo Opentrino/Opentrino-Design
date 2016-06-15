@@ -4,7 +4,7 @@ ___
 
 The Microprocessor will support multiple technologies that are present in large modern Microprocessors.
 
-As it was already described in the main document (README.md), the high level goals for this project (Centrino Microprocessor) are:
+As it was already described in the main document (README.md), the high level goals for this project (Citrino Microprocessor) are:
 
 **ISA:**  
 1- **32 bit CISC** Architecture  

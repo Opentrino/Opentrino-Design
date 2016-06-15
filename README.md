@@ -14,14 +14,14 @@ It will be made up of 3 main components:
 ISA/Big-A related:  
 >1- 32 bit CISC Architecture  
 2- x86 inspired  
-3- x86 Registers ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CentrinoDesign/ISA/Registers.md))  
+3- x86 Registers ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Registers.md))  
 3- +54 instructions supported  
 4- MMU support  
 
-[**> ISA Specifications here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CentrinoDesign/ISA/ISA.md)
+[**> ISA Specifications here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)
 
 Microarchitecture related:
->1- Pipelined  ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CentrinoDesign/Microarchitecture/Pipeline.md))  
+>1- Pipelined  ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Pipeline.md))  
 2- Cached  
 3- Microcode design oriented  
 4- Superscalar  
@@ -31,7 +31,7 @@ Microarchitecture related:
 9- Multi Core  
 10- Floating Point Unit (possibility)  
 
-[**> Complete Specifications for the Microprocessor can be found here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CPUSpecs.md)
+[**> Complete Specifications for the Microprocessor can be found here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/CPUSpecs.md)
 
 **Gentrino**
 -------

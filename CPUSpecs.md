@@ -31,7 +31,7 @@ ___
 # Instructions supported  
 
 # Core Components / **Frontend / Execution**:
-    Registers: (Specifications)[https://github.com/Opentrino/Opentrino-Design/blob/master/Registers.md]
+    Registers: [Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/Registers.md)
     ALU:
     Control Unit:
     IO Controller:

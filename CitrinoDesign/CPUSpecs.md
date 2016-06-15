@@ -29,63 +29,62 @@ ___
 # **Microprocessor Specifications:**  
 
 # **> ISA <**
-# Architecture of choice  
+# 1.1. Architecture of choice  
 
-# Instructions (types and formats)  
+# 1.2. Instructions (types and formats)  
 
-# Data Types
+# 1.3. Data Types
 
-# Memory Addressing Modes
+# 1.4. Memory Addressing Modes
 
-# Registers
+# 1.5. Registers
 
-# Flags
+# 1.6. Flags
 
-# Interrupts and Exception Handling
+# 1.7. Interrupts and Exception Handling
 
-# Access Control and Prioritization/Privilege
+# 1.8. Access Control and Prioritization/Privilege
 
-# Global Modes of Execution
+# 1.9. Global Modes of Execution
 
-# IO 
+# 1.10. IO 
     Memory Mapped IO
     External IOCTL
 
-# Memory Organization / Hierarchy
+# 1.11. Memory Organization / Hierarchy
     DRAM / SDRAM / SRAM
     Virtual Memory (MMU)
     Direct Memory Access (DMA)
     Caches
     LUTs/ROM (Microcode)
     
-# Task and Thread controller/manager
+# 1.12. Task and Thread controller/manager
 
-# Multithread and Multicore support
+# 1.13. Multithread and Multicore support
 
-# Power Manager
+# 1.14. Power Manager
     ACPI
 
 ___
 # **> Microarchitecture <**
 
-# Pipelines
+# 2.1. Pipelines
 
-# External Interfacing / IO
+# 2.2. External Interfacing / IO
     Bus Logic
 
-# Control Unit
+# 2.3. Control Unit
     FSM Logic
 
 # **> Engineering Factors <**
 
-# Expected throughput / Performance
+# 3.1. Expected throughput / Performance
   
+# 3.2. Optimizations and Efficiency
 
-# Optimizations and Efficiency
+# 3.3. Compatibility
 
-# Compatibility
-
-# Extensibility
+# 3.4. Extensibility
 
 ___
 # **> Engineering Standards <**  

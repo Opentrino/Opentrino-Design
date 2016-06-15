@@ -47,7 +47,7 @@ ___
 
 # 1.9. Global Modes of Execution
 
-# 1.10. IO 
+# 1.10. I/O 
     Memory Mapped IO
     External IOCTL
 
@@ -55,7 +55,7 @@ ___
     DRAM / SDRAM / SRAM
     Virtual Memory (MMU)
     Direct Memory Access (DMA)
-    Caches
+    Caches (refer to Microarchitecture section)
     LUTs/ROM (Microcode)
     
 # 1.12. Task and Thread controller/manager
@@ -75,6 +75,27 @@ ___
 
 # 2.3. Control Unit
     FSM Logic
+    
+# 2.4. Memory Controller
+    Memory Access mechanism (scheduling policy)
+
+# 2.5. Execution **Algorithms**
+    Speculative Execution
+    Branch Prediction
+    
+# 2.6. Superscalar Processing
+
+# 2.7. Caches
+     Level
+     Size
+     Caching Algorithms
+
+# 2.8. Instruction Execution Cycle
+     Prefetching and Fetching
+     
+# 2.9. Flexibility of design
+     Voltage scaling
+     Clock scaling / multiplier
 
 # **> Engineering Factors <**
 
@@ -85,6 +106,8 @@ ___
 # 3.3. Compatibility
 
 # 3.4. Extensibility
+
+# 3.5. Flexibility
 
 ___
 # **> Engineering Standards <**  

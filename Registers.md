@@ -9,8 +9,7 @@ They are:
 **Meaning:**  
 32 Bit registers:
 > * EAX/EBX/ECX/EDX: General Purpose 32 bit registers  
-
->* ESI: Source Index  
+* ESI: Source Index  
 * EDI: Destination Index  
 * EBP: Base Stack Pointer  
 * ESP: Stack Pointer  

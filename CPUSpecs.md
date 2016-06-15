@@ -31,7 +31,7 @@ ___
 # Instructions supported  
 
 # Core Components / **Frontend / Execution**:
-    Registers: 
+    Registers: 16 registers in total. 10 of which are 32 bits, the other 6 are 16 bits (segment registers)
     ALU:
     Control Unit:
     IO Controller:

@@ -1,6 +1,6 @@
 # Instruction Category: **Data Transfer**  
 
-Instruction List:
+Instruction List:  
 1. MOV  
 2. SWAP  
 3. PUSH  
@@ -23,7 +23,7 @@ Example:
 
 # **PUSH**
 **Meaning**: Pushes the Source operand into the stack and decrements ESP (stack pointer)  
-Format: 
+Format:  
 Example:  
 
 # **PUSHA**

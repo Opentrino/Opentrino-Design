@@ -12,14 +12,12 @@ It will be made up of 3 main components:
 -------
 **General features**   
 
-ISA/Big-A related:  
+ISA related ([**> Complete ISA Specs here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)):  
 >1- 32 bit CISC Architecture  
 2- x86 inspired  
 3- x86 Registers ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Registers.md))  
 3- +54 instructions supported  
 4- MMU support  
-
-[**> ISA Specifications here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)
 
 Microarchitecture related:
 >1- Pipelined  ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Pipeline.md))  

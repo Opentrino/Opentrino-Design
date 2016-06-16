@@ -12,7 +12,7 @@ It will be made up of 3 main components:
 -------
 **General features**   
 
-ISA related ([**> Complete ISA Specs here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)):  
+ISA related ([**Complete ISA Specs here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)):  
 >1- 32 bit CISC Architecture  
 2- x86 inspired  
 3- x86 Registers ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Registers.md))  

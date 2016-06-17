@@ -29,7 +29,7 @@ ___
 # **Microprocessor Specifications (overview):**  
 
 # **> ISA <**
-[(Complete ISA Specs)](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)  
+([Complete ISA Specs](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md))  
 
 # 1.1. Architecture of choice  
 

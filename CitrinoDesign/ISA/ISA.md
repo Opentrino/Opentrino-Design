@@ -2,6 +2,11 @@
 **ISA Definition:** The interface of a Microprocessor design that is exposed to the Programmer/Compiler.
 
 - Architecture type: x86 CISC (32 bits only)
+- x86 CISC main features:
+  - Complex Instructions (compared to RISC)
+  - Variable Length Instruction
+  - Non-Uniform Decoder
+  - Many Addressing Modes (see below)
 
 # **Instruction Set Table:**
 |No.| [Data Transfer](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md) | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)

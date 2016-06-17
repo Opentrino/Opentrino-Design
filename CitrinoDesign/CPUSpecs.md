@@ -7,7 +7,6 @@ The Microprocessor will support multiple technologies that are present in large 
 As it was already described in the main document (README.md), the high level goals for this project (Citrino Microprocessor) are:
 
 **ISA:**  
-[Complete ISA Specs](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)  
 1- **32 bit CISC** Architecture  
 2- Influenced heavily by the **x86** instruction set and architecture in its entirety, including the registers  
 3- Support for most x86 instructions  
@@ -30,6 +29,8 @@ ___
 # **Microprocessor Specifications (overview):**  
 
 # **> ISA <**
+[(Complete ISA Specs)](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md)  
+
 # 1.1. Architecture of choice  
 
 # 1.2. Instructions (types and formats)  

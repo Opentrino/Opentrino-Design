@@ -32,10 +32,10 @@ Microarchitecture related:
 
 [**> A *centralised* list of specifications, which include the ISA, Microarchitecture, Engineering specs and Research sources can be found here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/CPUSpecs.md)
 
-**Gentrino** - The Graphics Processing Unit
+**Gentrino** - the Graphics Processing Unit
 -------
 (To plan soon...)
 
-**Mintrino** - The Motherboard
+**Mintrino** - the Motherboard
 -------
 (To plan soon...)

@@ -5,10 +5,10 @@ Here can be found the specifications for the 3 milestone projects that make up t
 
 It will be made up of 3 main components:
 - The Microprocessor - [**Citrino** project](https://github.com/Opentrino/Citrino)
-- The Graphical Processing Unit - [**Gentrino** project](https://github.com/Opentrino/Gentrino)  
+- The Graphics Processing Unit - [**Gentrino** project](https://github.com/Opentrino/Gentrino)  
 - The Motherboard - [**Mintrino** project](https://github.com/Opentrino/Mintrino)
 
-**Citrino**
+**Citrino** - the Central Processing Unit
 -------
 **General features**   
 
@@ -32,10 +32,10 @@ Microarchitecture related:
 
 [**> A *centralised* list of specifications, which include the ISA, Microarchitecture, Engineering specs and Research sources can be found here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/CPUSpecs.md)
 
-**Gentrino**
+**Gentrino** - The Graphics Processing Unit
 -------
 (To plan soon...)
 
-**Mintrino**
+**Mintrino** - The Motherboard
 -------
 (To plan soon...)

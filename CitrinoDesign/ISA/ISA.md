@@ -1,4 +1,6 @@
 # ISA - Instruction Set Architecture
+**ISA Definition:** The interface of a Microprocessor design that is exposed to the Programmer/Compiler.
+
 - Architecture type: x86 CISC (32 bits only)
 
 # **Instruction Set Table:**

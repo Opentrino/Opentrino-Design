@@ -38,7 +38,7 @@
 
 # **Addressing Modes**
 The following image summarises the addressing modes that are being planned for implementation:
-![Adressing Modes](http://www.electronics.dit.ie/staff/tscarff/8086_address_modes/8086_address_modes.gif)  
+![Adressing Modes](http://image.prntscr.com/image/fc8de8cd3c434c16871f6a4bd9c7dea0.png)  
 
 **Note**: Not all instructions support all these addressing modes. Consult the instruction page in order to know what kind of addressing modes a certain instruction will support. 
 

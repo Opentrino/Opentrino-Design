@@ -26,7 +26,7 @@ As it was already described in the main document (README.md), the high level goa
 ___
 ___
 ___
-# **Microprocessor Specifications:**  
+# **Microprocessor Specifications (overview):**  
 
 # **> ISA <**
 # 1.1. Architecture of choice  

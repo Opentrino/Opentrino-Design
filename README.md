@@ -34,7 +34,8 @@ Microarchitecture related:
 
 **Gentrino**
 -------
-
+(To plan soon...)
 
 **Mintrino**
 -------
+(To plan soon...)

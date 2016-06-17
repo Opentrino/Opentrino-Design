@@ -5,13 +5,13 @@
 |No.| Data Transfer | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)
 |---|----------------|------------------|---------|---------------|-----|------------------|--------------|------|---------------|
 |1|MOV|ADD|JMP|BT|IN|MOVS|STF|NOP|LGDT
-|2|SWAP|SUB|JCO|BTS|OUT|CMPS|CLF|LEA|LIDT
-|3|PUSH|MUL|CALL|BTR|INS|LODS|LAHF|CPUID
-|4|PUSHA|DIV|RET|BTC|OUTS|STOS|SAHF
-|5|PUSHF|INC|IRET|SET||SETS|STI
-|6|POP|DEC|INT|SETC||REP|CLI
-|7|POPA|NEG|LOOP|TEST||REPC
-|8|POPF|CMP|HLT
+|2|PUSH|SUB|JCO|BTS|OUT|CMPS|CLF|LEA|LIDT
+|3|PUSHA|MUL|CALL|BTR|INS|LODS|LAHF|CPUID
+|4|PUSHF|DIV|RET|BTC|OUTS|STOS|SAHF
+|5|POP|INC|IRET|SET||SETS|STI
+|6|POPA|DEC|INT|SETC||REP|CLI
+|7|POPF|NEG|LOOP|TEST||REPC
+|8|SWAP|CMP|HLT
 |9||AND|WAIT
 |10||OR
 |11||XOR

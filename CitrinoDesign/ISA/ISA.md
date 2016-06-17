@@ -27,8 +27,18 @@
 # **Registers**
 [Consult this page for the registers' specification](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Registers.md)
 
+# **Flags**
+
 # **Addressing Modes**
 The following image summarises the addressing modes that are being planned for implementation:
 ![Adressing Modes](http://www.electronics.dit.ie/staff/tscarff/8086_address_modes/8086_address_modes.gif)  
 
 **Note**: Not all instructions support all these addressing modes. Consult the instruction page in order to know what kind of addressing modes a certain instruction will support. 
+
+# **Data Types**
+
+# **Interrupts and Exception Handling**
+
+# **I/O**
+
+# **Memory Organization / Hierarchy**

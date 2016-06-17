@@ -42,7 +42,13 @@ The following image summarises the addressing modes that are being planned for i
 
 **Note**: Not all instructions support all these addressing modes. Consult the instruction page in order to know what kind of addressing modes a certain instruction will support. 
 
-# **Data Types**
+# **Data Types/Format**
+  - 32/16/8 bits
+  - signed and unsigned
+  - floating point numbers (IEEE 754):
+    - float: 8 bit exponent, 23 bit significand
+    - double: 11 bit exponent, 52 bit significand
+  - Support for Unaligned data
 
 # **Interrupts and Exception Handling**
 

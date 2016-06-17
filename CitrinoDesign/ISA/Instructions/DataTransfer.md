@@ -2,22 +2,17 @@
 
 Instruction List:  
 1. MOV  
-2. SWAP  
-3. PUSH  
-4. PUSHA  
-5. PUSHF  
-6. POP  
-7. POPA  
-8. POPF  
+2. PUSH  
+3. PUSHA  
+4. PUSHF  
+5. POP  
+6. POPA  
+7. POPF  
+8. SWAP  
 _____  
 
 # **MOV**
 **Meaning**:  Move data from Source to Destination operands  
-Format:  
-Example:  
-
-# **SWAP**
-**Meaning**: Swaps two register's values, which are described by the two operands  
 Format:  
 Example:  
 
@@ -48,5 +43,10 @@ Example:
 
 # **POPF**
 **Meaning**: Loads the top value of the stack and stores it into EFLAGs  
+Format:  
+Example:  
+
+# **SWAP**
+**Meaning**: Swaps two register's values, which are described by the two operands  
 Format:  
 Example:  

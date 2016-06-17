@@ -49,6 +49,9 @@ The following image summarises the addressing modes that are being planned for i
     - float: 8 bit exponent, 23 bit significand
     - double: 11 bit exponent, 52 bit significand
   - Support for Unaligned data
+  
+# **Endianness**
+  The Microprocessor will access memory using **Little-Endian** order
 
 # **Interrupts and Exception Handling**
 

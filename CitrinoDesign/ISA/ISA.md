@@ -25,7 +25,7 @@
 (The table will be under constant alteration)
 
 # **Registers**
-[Consult this page for the registers' specification](https://github.com/Opentrino/Opentrino-Design/blob/master/Registers.md)
+[Consult this page for the registers' specification](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Registers.md)
 
 # **Addressing Modes**
 The following image summarises the addressing modes that are being planned for implementation:

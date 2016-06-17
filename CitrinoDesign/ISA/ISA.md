@@ -2,7 +2,7 @@
 - Architecture type: x86 CISC (32 bits only)
 
 # **Instruction Set Table:**
-|No.| Data Transfer | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)
+|No.| [Data Transfer](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md) | Arithmetic-Logic | Control | Bit Functions | I/O | String Functions | Flag Control | Misc | Special (x86)
 |---|----------------|------------------|---------|---------------|-----|------------------|--------------|------|---------------|
 |1|MOV|ADD|JMP|BT|IN|MOVS|STF|NOP|LGDT
 |2|PUSH|SUB|JCO|BTS|OUT|CMPS|CLF|LEA|LIDT

@@ -1,5 +1,5 @@
 # Opentrino-Design
-![Overall Design](http://image.prntscr.com/image/2f33ecf9cd034c308054e90600a5973b.png)
+![Overall Design](http://image.prntscr.com/image/0722a236201e49ea9e93077299c91c0d.png)
 
 Here can be found the specifications for the 3 milestone projects that make up the whole Opentrino project.
 

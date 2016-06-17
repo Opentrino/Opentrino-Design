@@ -1,14 +1,14 @@
 # Instruction Category: **Data Transfer**  
 
 Instruction List:  
-1. MOV  
-2. PUSH  
-3. PUSHA  
-4. PUSHF  
-5. POP  
-6. POPA  
-7. POPF  
-8. SWAP  
+1. [MOV](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#mov)  
+2. [PUSH](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#push)  
+3. [PUSHA](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#pusha)    
+4. [PUSHF](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#pushf)    
+5. [POP](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#pop)    
+6. [POPA](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#popa)    
+7. [POPF](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#popf)    
+8. [SWAP](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Instructions/DataTransfer.md#swap)    
 _____  
 
 # **MOV**

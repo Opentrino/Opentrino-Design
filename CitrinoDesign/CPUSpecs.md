@@ -135,5 +135,5 @@ ___
 **Manuals:**  
 1- [Intel® 64 and IA-32 Architectures Software Developer’s Manual - by Intel](http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf)
 
-**Cheat Sheets:**
-x86 ISA: [Part 1](http://www.jegerlehner.ch/intel/IntelCodeTablePreview-1.gif) | [Part 2](http://www.jegerlehner.ch/intel/IntelCodeTablePreview-2.gif)
+**Cheat Sheets:**  
+1- x86 ISA: [Part 1](http://www.jegerlehner.ch/intel/IntelCodeTablePreview-1.gif) | [Part 2](http://www.jegerlehner.ch/intel/IntelCodeTablePreview-2.gif)  

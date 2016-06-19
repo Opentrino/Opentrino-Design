@@ -11,5 +11,5 @@ Visual Representation:
   ![Superscalar Example](http://image.prntscr.com/image/2bba2448a9354367af21a47c35b527b1.png)
 
 
-# ** Goal Microarchitecture (Example) **
+# **Goal Microarchitecture (Example)**
 ![Intel Nehalem Microarchitecture](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Intel_Nehalem_arch.svg/2000px-Intel_Nehalem_arch.svg.png)

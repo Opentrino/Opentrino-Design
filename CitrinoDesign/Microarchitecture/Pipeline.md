@@ -1,8 +1,8 @@
 # Pipeline Design
 
 # Under construction:
-Notes:
-Instruction Cycle:
+****Notes:****  
+Instruction Cycle:  
   1- Fetch Instruction  
   2- Decode  
   3- Evaluate Address (depends on addressing mode)  

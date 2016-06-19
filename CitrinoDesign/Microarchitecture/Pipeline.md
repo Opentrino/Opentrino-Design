@@ -1,7 +1,8 @@
 # Pipeline Design
 
 # Under construction:
-****Notes:****  
+***Notes:***  
+
 Instruction Cycle:  
   1- Fetch Instruction  
   2- Decode  

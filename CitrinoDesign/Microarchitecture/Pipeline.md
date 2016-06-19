@@ -11,6 +11,6 @@ Instruction Cycle:
   5- **Execute**  
   6- Write Back  
   
-# Under construction: Unpipelined Datapath
+# Unpipelined Datapath
 
 

@@ -30,7 +30,7 @@ Microarchitecture related:
 9- Multi Core  
 10- Floating Point Unit (possibility)  
 
-[**> A *centralised* list of specifications, which include the ISA, Microarchitecture, Engineering specs and Research sources can be found here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/README.md)
+[**> Complete list of CPU specifications here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/)
 
 **Gentrino** - the Graphics Processing Unit
 -------

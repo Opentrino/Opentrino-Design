@@ -19,7 +19,7 @@ ISA related ([**Complete ISA Specs here**](https://github.com/Opentrino/Opentrin
 3- +54 instructions supported  
 4- Virtual Memory support  
 
-Microarchitecture related:
+Microarchitecture related ([**Complete Microarchitecture Specs here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Microarchitecture.md)):
 >1- Pipelined  ([Specifications](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Pipeline.md))  
 2- Cached  
 3- Microcode design oriented  

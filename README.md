@@ -16,7 +16,7 @@ ISA related ([**Complete ISA Specs here**](https://github.com/Opentrino/Opentrin
 >1- 32 bit CISC Architecture  
 2- x86 oriented  
 3- [x86 Registers](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/Registers.md)  
-3- +54 instructions supported  
+3- [+54 instructions supported](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md#instruction-set-table)  
 4- Virtual Memory support  
 
 Microarchitecture related ([**Complete Microarchitecture Specs here**](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Microarchitecture.md)):

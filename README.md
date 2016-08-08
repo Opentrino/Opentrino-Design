@@ -1,8 +1,8 @@
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<p align="center" style="font-size: 30px;font-family:'Open Sans'">Opentrino-Design</p>
-  
+<p align="center" style="font-size: 40px;font-family:'Open Sans'; font-weight:bold">
+  Opentrino-Design
+</p>
 <p align="center">
-  <br><br>
   <img src="http://image.prntscr.com/image/0722a236201e49ea9e93077299c91c0d.png">
   <a href="http://i.imgur.com/23M6ZdC.png"><img src="http://i.imgur.com/23M6ZdC.png" height="643" width="489"></a>
 </p>

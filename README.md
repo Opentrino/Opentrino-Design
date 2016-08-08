@@ -1,5 +1,6 @@
 <p align="center">
-  # Opentrino-Design
+  Opentrino-Design
+  <br><br>
   <img src="http://image.prntscr.com/image/0722a236201e49ea9e93077299c91c0d.png">
   <a href="http://i.imgur.com/23M6ZdC.png"><img src="http://i.imgur.com/23M6ZdC.png" height="643" width="489"></a>
 </p>

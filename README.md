@@ -1,8 +1,10 @@
 # Opentrino-Design
 ![Overall Design](http://image.prntscr.com/image/0722a236201e49ea9e93077299c91c0d.png)
-<div>
-<a href="http://i.imgur.com/23M6ZdC.png"><img src="http://i.imgur.com/23M6ZdC.png" align="left" height="643" width="489" ></a>
-</div>  
+
+<center>
+<img src="http://i.imgur.com/23M6ZdC.png" align="left" height="643" width="489" >
+</center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Here can be found the specifications for the 3 milestone projects that make up the whole Opentrino project.
 

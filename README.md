@@ -1,4 +1,5 @@
-<p align="center">
+<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<p align="center" style="font-size: 30px;font-family:'Open Sans'">
   Opentrino-Design
   <br><br>
   <img src="http://image.prntscr.com/image/0722a236201e49ea9e93077299c91c0d.png">

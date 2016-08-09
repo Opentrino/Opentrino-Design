@@ -6,9 +6,9 @@
 Here can be found the specifications for the 3 milestone projects that make up the whole Opentrino project.
 
 It will be made up of 3 main components:
-- The Microprocessor - [**Citrino** project](https://github.com/Opentrino/Citrino)
-- The Graphics Processing Unit - [**Gentrino** project](https://github.com/Opentrino/Gentrino)  
-- The Motherboard - [**Mintrino** project](https://github.com/Opentrino/Mintrino)
+- The Microprocessor - [**Citrino** Project](https://github.com/Opentrino/Citrino) / [Design](https://github.com/Opentrino/Opentrino-Design/tree/master/CitrinoDesign)  
+- The Graphics Processing Unit - [**Gentrino** Project](https://github.com/Opentrino/Gentrino) / [Design](https://github.com/Opentrino/Opentrino-Design/tree/master/GentrinoDesign)  
+- The Motherboard - [**Mintrino** Project](https://github.com/Opentrino/Mintrino) / [Design](https://github.com/Opentrino/Opentrino-Design/tree/master/MintrinoDesign)
 
 **Citrino** - the Central Processing Unit
 -------

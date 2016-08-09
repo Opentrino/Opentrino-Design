@@ -1,6 +1,6 @@
 # Opentrino-Design
 <p align="center">
-  <a href="http://i.imgur.com/23M6ZdC.png"><img src="http://i.imgur.com/23M6ZdC.png" height="643" width="489"></a>
+  <a href="http://i.imgur.com/zlY9iC1.png"><img src="http://i.imgur.com/zlY9iC1.png" height="643" width="489"></a>
 </p>
 
 Here can be found the specifications for the 3 milestone projects that make up the whole Opentrino project.

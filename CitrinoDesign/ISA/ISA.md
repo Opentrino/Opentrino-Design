@@ -38,7 +38,7 @@
 
 # **Addressing Modes**
 The following image summarises the addressing modes that are being planned for implementation:
-![Adressing Modes](http://image.prntscr.com/image/fc8de8cd3c434c16871f6a4bd9c7dea0.png)  
+![Adressing Modes](http://image.prntscr.com/image/10e9577932d042c082f8670fdc764828.png)  
 
 **Note**: Not all instructions support all these addressing modes. Consult the instruction page in order to know what kind of addressing modes a certain instruction will support. 
 

@@ -28,8 +28,7 @@ ___
 ___
 # **Microprocessor Specifications (overview):**  
 
-# **> ISA <**
-([Complete ISA Specs](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md))  
+# **> ISA < ([Complete ISA Specs](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/ISA/ISA.md))  **
 
 # 1.1. Architecture of choice  
 
@@ -68,8 +67,7 @@ ___
     ACPI
 
 ___
-# **> Microarchitecture <**
-([Complete Microarchitecture Specs](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Microarchitecture.md))
+# **> Microarchitecture < ([Complete Microarchitecture Specs](https://github.com/Opentrino/Opentrino-Design/blob/master/CitrinoDesign/Microarchitecture/Microarchitecture.md))**
 
 # 2.1. Pipelines
 

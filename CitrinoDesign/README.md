@@ -124,13 +124,27 @@ ___
 **Books/Textbooks:**  
 1- [Computer Organization and Design: The Hardware/Software Interface - by David A. Patterson,  John L. Hennessy ](https://www.amazon.co.uk/Computer-Organization-Design-Interface-Architecture/dp/0124077269/ref=sr_1_2?ie=UTF8&qid=1465867988&sr=8-2&keywords=computer+organization+and+design)  
 
-2- [Computer Architecture - A Quantitative Approach - by John Hennessy](https://www.amazon.co.uk/Computer-Architecture-Morgan-Kaufmann-Design/dp/012383872X/ref=sr_1_1?ie=UTF8&qid=1465868130&sr=8-1&keywords=computer+architecture+a+quantitative+approach)  
+2- [Computer Organization and Design: The Hardware/Software Interface: ARM Edition - by David A. Patterson,  John L. Hennessy](https://www.amazon.co.uk/gp/product/0128017333/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=A3P5ROKL5A1OLE)  
 
-3- [Modern Processor Design: Fundamentals of Superscalar Processors - by John P. Shen ](https://www.amazon.co.uk/Modern-Processor-Design-Fundamentals-Superscalar/dp/0070570647/ref=sr_1_1?ie=UTF8&qid=1465868200&sr=8-1&keywords=modern+processor+design+fundamentals+of+superscalar+processors)  
+3- [Computer Architecture - A Quantitative Approach - by John Hennessy](https://www.amazon.co.uk/Computer-Architecture-Morgan-Kaufmann-Design/dp/012383872X/ref=sr_1_1?ie=UTF8&qid=1465868130&sr=8-1&keywords=computer+architecture+a+quantitative+approach)  
 
-4- [Microprocessor Design: A Practical Guide from Design Planning to Manufacturing - by Grant Mcfarland](https://www.amazon.co.uk/Microprocessor-Design-Manufacturing-Professional-Engineering/dp/0071459510/ref=sr_1_1?ie=UTF8&qid=1465868255&sr=8-1&keywords=Microprocessor+design+a+practical+guide)  
+4- [Computer Organization and Architecture - by William Stallings](https://www.amazon.co.uk/Computer-Organization-Architecture-William-Stallings/dp/1292096853/ref=sr_1_6?s=books&ie=UTF8&qid=1472996956&sr=1-6&keywords=computer+architecture)
 
-5- [Complete Digital Design: A Comprehensive Guide to Digital Electronics and Computer System Architecture - by Mark Balch](https://www.amazon.co.uk/Complete-Digital-Design-Comprehensive-Architecture-ebook/dp/B000THOD3Y/ref=sr_1_3?ie=UTF8&qid=1465868307&sr=8-3&keywords=Complete+digital+design)  
+5- [Structured Computer Organization - by Andrew S Tanenbaum, Todd Austin](https://www.amazon.co.uk/Structured-Computer-Organization-International-Tanenbaum/dp/0273769243/ref=sr_1_1?s=books&ie=UTF8&qid=1472996867&sr=1-1&keywords=Structured+Computer+Organization)
+
+6- [Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture - by Jon Stokes](https://www.amazon.co.uk/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680/ref=sr_1_1?s=books&ie=UTF8&qid=1472996766&sr=1-1&keywords=inside+the+machine)
+
+7- [Modern Processor Design: Fundamentals of Superscalar Processors - by John P. Shen ](https://www.amazon.co.uk/Modern-Processor-Design-Fundamentals-Superscalar/dp/0070570647/ref=sr_1_1?ie=UTF8&qid=1465868200&sr=8-1&keywords=modern+processor+design+fundamentals+of+superscalar+processors)  
+
+8- [Microprocessor Architecture: From Simple Pipelines to Chip Multiprocessors - by Jean-Loup Baer](https://www.amazon.co.uk/Microprocessor-Architecture-Simple-Pipelines-Multiprocessors/dp/0521769922/ref=sr_1_8?s=books&ie=UTF8&qid=1472996604&sr=1-8&keywords=microprocessor+architecture)
+
+9- [Microprocessor Design: A Practical Guide from Design Planning to Manufacturing - by Grant Mcfarland](https://www.amazon.co.uk/Microprocessor-Design-Manufacturing-Professional-Engineering/dp/0071459510/ref=sr_1_1?ie=UTF8&qid=1465868255&sr=8-1&keywords=Microprocessor+design+a+practical+guide)  
+
+10- [Embedded Computing: A VLIW Approach to Architecture, Compilers and Tools - by Joseph A. Fisher, Paolo Faraboschi, Cliff Young](https://www.amazon.co.uk/Embedded-Computing-Approach-Architecture-Compilers/dp/1493303651/ref=sr_1_3?s=books&ie=UTF8&qid=1472996676&sr=1-3&keywords=embedded+computing)
+
+11- [Complete Digital Design: A Comprehensive Guide to Digital Electronics and Computer System Architecture - by Mark Balch](https://www.amazon.co.uk/Complete-Digital-Design-Comprehensive-Architecture-ebook/dp/B000THOD3Y/ref=sr_1_3?ie=UTF8&qid=1465868307&sr=8-3&keywords=Complete+digital+design)  
+
+12- [OpenSPARC Internals - by David Weaver](https://www.amazon.co.uk/OpenSPARC-Internals-David-Weaver/dp/0557019745/ref=sr_1_1?s=books&ie=UTF8&qid=1472996806&sr=1-1&keywords=opensparc)
 
 **Manuals:**  
 1- [Intel® 64 and IA-32 Architectures Software Developer’s Manual - by Intel](http://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-manual-325462.pdf)

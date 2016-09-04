@@ -20,8 +20,8 @@ As it was already described in the main document (README.md), the high level goa
 5- **Branch Prediction** will also need to be implemented  
 6- In order to improve throughput, **VLIW** (Very Long Instruction Word) is within the plans  
 7- To extend throughput even further, **Multithreading** will also be implemented  
-8- There is also plans to make the Microprocessor **Multi Cored**, however, this choice is not yet confirmed  
-9- A **Floating Poing Unit** may also be implemented
+8- There are also plans to make the Microprocessor **Multi Cored**, however, this choice is not yet confirmed  
+9- A **Floating Poing Unit** will also be implemented
 
 ___
 ___
